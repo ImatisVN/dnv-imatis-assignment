@@ -1,0 +1,28 @@
+[
+  {
+    "customerId": "IMT",
+    "campaign": "GetXForYDeal",
+    "campaignParams": {
+      "discountedSize": "Basic",
+      "xQuantity": 6,
+      "yQuantity": 4
+    }
+  },
+  {
+    "customerId": "FWH",
+    "campaign": "PriceDrops",
+    "campaignParams": {
+      "discountedSize": "Advanced",
+      "discountPrice": 139.99
+    }
+  },
+  {
+    "customerId": "DNV",
+    "campaign": "GetXForYDeal",
+    "campaignParams": {
+      "discountedSize": "Standard",
+      "xQuantity": 10,
+      "yQuantity": 5
+    }
+  }
+]

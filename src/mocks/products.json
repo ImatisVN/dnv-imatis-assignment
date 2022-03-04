@@ -1,0 +1,29 @@
+[
+  {
+    "id": "a5664826-57de-4181-ae14-96d395b963cc",
+    "name": "Basic Package",
+    "description": "10 health check-up items",
+    "image": "https://www.victoriavn.com/images/thuviensuckhoe/V%C3%AC_sao_b%E1%BA%A1n_c%E1%BA%A7n_b%C3%A1c_s%C4%A9_gia_%C4%91%C3%ACnh_ngay_h%C3%B4m_nay1.png",
+    "size": "Basic",
+    "retailPrice": 99.99,
+    "currency": "USD"
+  },
+  {
+    "id": "d9fd16e0-53c1-4b25-8459-93c61eff290b",
+    "name": "Standard Package",
+    "description": "15 health check-up items",
+    "image": "https://www.victoriavn.com/images/thuviensuckhoe/V%C3%AC_sao_b%E1%BA%A1n_c%E1%BA%A7n_b%C3%A1c_s%C4%A9_gia_%C4%91%C3%ACnh_ngay_h%C3%B4m_nay1.png",
+    "size": "Standard",
+    "retailPrice": 129.99,
+    "currency": "USD"
+  },
+  {
+    "id": "8ae5ee38-f0c6-4492-beec-8e58897abbdd",
+    "name": "Advanced Package",
+    "description": "20 health check-up items",
+    "image": "https://www.victoriavn.com/images/thuviensuckhoe/V%C3%AC_sao_b%E1%BA%A1n_c%E1%BA%A7n_b%C3%A1c_s%C4%A9_gia_%C4%91%C3%ACnh_ngay_h%C3%B4m_nay1.png",
+    "size": "Advanced",
+    "retailPrice": 149.99,
+    "currency": "USD"
+  }
+]
